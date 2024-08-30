@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>zulu NEGATIVE LOGIN SCENARIO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ca16680-54aa-4f66-9fd7-0555ced8135a</testCaseGuid>
+</TestCaseEntity>
